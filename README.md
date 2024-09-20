@@ -1,1 +1,0 @@
-# krono-i2.github.io
