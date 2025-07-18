@@ -46,45 +46,49 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.it/citations?user=Bcse9yQAAAAJ&hl=it&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-8504-7075. 
+    url: https://orcid.org/0000-0001-8504-7075
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Physical layer security for communications
+  - Signal and array processing for mobile communications
+  - Reconfigurable Intelligent Surfaces
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Information Technology and Electrical Engineering
+    institution: Università di Napoli Federico II
+    date_start: 2014-03-01
+    date_end: 2017-02-28
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on _Equalization of CPM signals over doubly-selective aeronautical channels_. Supervised by [Prof. Giacinto Gelli](https://www.docenti.unina.it/#!/professor/47494143494e544f47454c4c49474c4c474e5436344c3239463833394e/riferimenti). Presented papers at 2 IEEE conferences with the contributions being published in 2 IEEE journals.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: MSc Telecommunications Engineering
+    institution: Università di Napoli Federico II
+    date_start: 2008-10-01
+    date_end: 2010-09-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 109/110
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on _A novel approach to the DOA estimation_. Supervised by [Prof. Amedeo Capozzoli](https://www.docenti.unina.it/#!/professor/414d4544454f4341504f5a5a4f4c4943505a4d444136394530364638333943/riferimenti), [Prof. Claudio Curcio](https://www.docenti.unina.it/#!/professor/434c415544494f43555243494f435243434c4437375430314638333953/riferimenti), Dr. Giovanni Iadarola, [Prof. Angelo Liseno](https://www.docenti.unina.it/#!/professor/414e47454c4f4c4953454e4f4c534e4e474c37345232334237313556/riferimenti).
+#
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Telecommunications Engineering
+    institution: Università di Napoli Federico II
+    date_start: 2015-09-01
+    date_end: 2018-09-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 99/110
+
+      Thesis on _The near-field Radon Transform for vegetable areas tomography_. Supervised by [Prof. Amedeo Capozzoli](https://www.docenti.unina.it/#!/professor/414d4544454f4341504f5a5a4f4c4943505a4d444136394530364638333943/riferimenti), [Prof. Claudio Curcio](https://www.docenti.unina.it/#!/professor/434c415544494f43555243494f435243434c4437375430314638333953/riferimenti), [Prof. Angelo Liseno](https://www.docenti.unina.it/#!/professor/414e47454c4f4c4953454e4f4c534e4e474c37345232334237313556/riferimenti).
+#      
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
