@@ -189,4 +189,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ivan Iudice is a research engineer at Italian Aerospace Research Centre (CIRA), Capua. His research activities mainly lie in the area of signal and array processing for communications, with current interests focused on physical layer security, space-time techniques for cooperative communications systems and reconfigurable metasurfaces.
+# he leads  the physical layer security for communications group.
