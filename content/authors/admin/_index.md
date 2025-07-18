@@ -189,5 +189,4 @@ awards:
 
 ## About Me
 
-Ivan Iudice is a research engineer at Italian Aerospace Research Centre (CIRA), Capua. His research activities mainly lie in the area of signal and array processing for communications, with current interests focused on physical layer security, space-time techniques for cooperative communications systems and reconfigurable metasurfaces.
-# he leads  the physical layer security for communications group.
+Ivan Iudice is a research engineer at Italian Aerospace Research Centre (CIRA), Capua, Italy. His research activities mainly lie in the area of signal and array processing for communications, with current interests focused on physical layer security, space-time techniques for cooperative communications systems and reconfigurable metasurfaces. He leads the Physical Layer Security for Communications Group.
