@@ -83,7 +83,7 @@ education:
     summary: |
       GPA: 99/110
 
-      Thesis on _The near-field Radon Transform for vegetable areas tomography_. Supervised by [Prof. Amedeo Capozzoli](https://www.docenti.unina.it/#!/professor/414d4544454f4341504f5a5a4f4c4943505a4d444136394530364638333943/riferimenti), [Prof. Claudio Curcio](https://www.docenti.unina.it/#!/professor/434c415544494f43555243494f435243434c4437375430314638333953/riferimenti), [Prof. Angelo Liseno](https://www.docenti.unina.it/#!/professor/414e47454c4f4c4953454e4f4c534e4e474c37345232334237313556/riferimenti).
+      Thesis on _The near-field Radon transform for vegetable areas tomography_. Supervised by [Prof. Amedeo Capozzoli](https://www.docenti.unina.it/#!/professor/414d4544454f4341504f5a5a4f4c4943505a4d444136394530364638333943/riferimenti), [Prof. Claudio Curcio](https://www.docenti.unina.it/#!/professor/434c415544494f43555243494f435243434c4437375430314638333953/riferimenti), [Prof. Angelo Liseno](https://www.docenti.unina.it/#!/professor/414e47454c4f4c4953454e4f4c534e4e474c37345232334237313556/riferimenti).
 #      
 #      Courses included:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
