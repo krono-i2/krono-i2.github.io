@@ -13,8 +13,20 @@ publication_types:
 publication: '*IEEE Transactions on Vehicular Technology*'
 doi: 10.1109/TVT.2024.3432170
 tags:
-- Satellite broadcasting;Low earth orbit satellites;NOMA;Doppler effect;Satellites;OFDM;Time-frequency
-  analysis;Capacity;Doppler frequency diversity;fairness;interference cancellation;low-Earth
-  orbit (LEO) constellations;non-orthogonal multiple access (NOMA);orthogonal multiple
-  access (OMA);resource allocation;superposition coding
+- Satellite broadcasting
+- Low earth orbit satellites
+- NOMA
+- Doppler effect
+- Satellites
+- OFDM
+- Time-frequency analysis
+- Capacity
+- Doppler frequency diversity
+- fairness
+- interference cancellation
+- low-Earth orbit (LEO) constellations
+- non-orthogonal multiple access (NOMA)
+- orthogonal multiple access (OMA)
+- resource allocation
+- superposition coding
 ---

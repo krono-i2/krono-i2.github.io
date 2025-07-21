@@ -13,5 +13,11 @@ publication_types:
 publication: '*2024 11th International Workshop on Metrology for AeroSpace (MetroAeroSpace)*'
 doi: 10.1109/MetroAeroSpace61015.2024.10591529
 tags:
-- Global navigation satellite system;Conferences;Receivers;Metrology;Physical layer;Security;Jamming
+- Global navigation satellite system
+- Conferences
+- Receivers
+- Metrology
+- Physical layer
+- Security
+- Jamming
 ---

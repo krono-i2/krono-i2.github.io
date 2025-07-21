@@ -14,7 +14,17 @@ publication_types:
 publication: '*2023 IEEE 10th International Workshop on Metrology for AeroSpace (MetroAeroSpace)*'
 doi: 10.1109/MetroAeroSpace57412.2023.10189965
 tags:
-- Space vehicles;Wiring;Performance evaluation;Network topology;Receivers;Real-time
-  systems;Frequency response;All-electric spacecraft;all-electric aircraft;more electric
-  aircraft;powerline communications;real-time simulation;software-defined radio
+- Space vehicles
+- Wiring
+- Performance evaluation
+- Network topology
+- Receivers
+- Real-time systems
+- Frequency response
+- All-electric spacecraft
+- all-electric aircraft
+- more electric aircraft
+- powerline communications
+- real-time simulation
+- software-defined radio
 ---

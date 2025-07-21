@@ -14,7 +14,17 @@ publication_types:
 publication: '*IEEE Access*'
 doi: 10.1109/ACCESS.2024.3406133
 tags:
-- Drones;Task analysis;Sensors;Planning;Resource management;Robot sensing systems;Analytical
-  models;Multi-agent systems;Spatiotemporal phenomena;Multi-drone systems;multi-drone
-  sensing;learning in games;multi-agent systems
+- Drones
+- Task analysis
+- Sensors
+- Planning
+- Resource management
+- Robot sensing systems
+- Analytical models
+- Multi-agent systems
+- Spatiotemporal phenomena
+- Multi-drone systems
+- multi-drone sensing
+- learning in games
+- multi-agent systems
 ---

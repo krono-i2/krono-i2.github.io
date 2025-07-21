@@ -15,6 +15,16 @@ publication: '*2023 IEEE International Workshop on Technologies for Defense and 
   (TechDefense)*'
 doi: 10.1109/TechDefense59795.2023.10380873
 tags:
-- Systematics;Surveillance;Simulation;Scalability;Games;Sensors;Security;drone teams;autonomous
-  cooperative systems;multi-agent systems;game theory;learning in games
+- Systematics
+- Surveillance
+- Simulation
+- Scalability
+- Games
+- Sensors
+- Security
+- drone teams
+- autonomous cooperative systems
+- multi-agent systems
+- game theory
+- learning in games
 ---

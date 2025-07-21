@@ -11,6 +11,11 @@ publication_types:
 publication: '*2024 IEEE Aerospace Conference*'
 doi: 10.1109/AERO58975.2024.10521369
 tags:
-- Frequency modulation;Fast Fourier transforms;Signal processing algorithms;Memory;Estimation;Real-time
-  systems;Telemetry
+- Frequency modulation
+- Fast Fourier transforms
+- Signal processing algorithms
+- Memory
+- Estimation
+- Real-time systems
+- Telemetry
 ---

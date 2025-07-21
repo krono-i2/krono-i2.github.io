@@ -14,7 +14,14 @@ publication: '*2023 IEEE International Conference on Communication, Networks and
   (COMNETSAT)*'
 doi: 10.1109/COMNETSAT59769.2023.10420646
 tags:
-- NOMA;Time-frequency analysis;Satellite broadcasting;Low earth orbit satellites;Frequency
-  diversity;Orbits;Doppler effect;Doppler frequency diversity;low-Earth orbit (LEO)
-  constellations;orthogonal/non-orthogonal multiple access (OMA/NOMA)
+- NOMA
+- Time-frequency analysis
+- Satellite broadcasting
+- Low earth orbit satellites
+- Frequency diversity
+- Orbits
+- Doppler effect
+- Doppler frequency diversity
+- low-Earth orbit (LEO) constellations
+- orthogonal/non-orthogonal multiple access (OMA/NOMA)
 ---

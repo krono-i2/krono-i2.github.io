@@ -13,10 +13,32 @@ publication: '*2016 IEEE Sensor Array and Multichannel Signal Processing Worksho
   (SAM)*'
 doi: 10.1109/SAM.2016.7569754
 tags:
-- MIMO communication;amplify and forward communication;cooperative communication;decoding;error
-  statistics;matrix algebra;mean square error methods;precoding;relay networks (telecommunication);transceivers;WL-MIMO
-  source precoder;amplify-and-forward MIMO relaying;bit-error rate;closed-from design;destination
-  decoder;minimum-mean-square-error criterion;multiple-input multiple-output cooperative
-  network;power constraint;relaying matrices;transceiver optimization;widely-linear
-  transceiver design;Decoding;MIMO;Matrices;Niobium;Precoding;Relays;Transceivers
+- MIMO communication
+- amplify and forward communication
+- cooperative communication
+- decoding
+- error statistics
+- matrix algebra
+- mean square error methods
+- precoding
+- relay networks (telecommunication)
+- transceivers
+- WL-MIMO source precoder
+- amplify-and-forward MIMO relaying
+- bit-error rate
+- closed-from design
+- destination decoder
+- minimum-mean-square-error criterion
+- multiple-input multiple-output cooperative network
+- power constraint
+- relaying matrices
+- transceiver optimization
+- widely-linear transceiver design
+- Decoding
+- MIMO
+- Matrices
+- Niobium
+- Precoding
+- Relays
+- Transceivers
 ---
