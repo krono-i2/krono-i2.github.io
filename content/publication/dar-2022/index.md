@@ -4,7 +4,9 @@ authors:
 - Donatella Darsena
 - Ivan Iudice
 - Francesco Verde
-date: 19-22 Oct. 2022-01
+date: 2022-11-16
+event_date: 2022-10-19
+event_end: 2022-10-22
 publishDate: '2025-07-21T11:47:11.381917Z'
 publication_types:
 - paper-conference
