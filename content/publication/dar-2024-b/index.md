@@ -12,8 +12,21 @@ publication_types:
 publication: '*IEEE Open Journal of the Communications Society*'
 doi: 10.1109/OJCOMS.2024.3451308
 tags:
-- Gold;NOMA;Channel estimation;Doppler shift;OFDM;Uplink;Autonomous aerial vehicles;Almost-cyclostationarity;channel
-  estimation;circular and noncircular modulations;doubly selective channels;Doppler
-  diversity;5G new radio (NR);modulation diversity;non-orthogonal multiple access
-  (NOMA);unmanned aerial vehicles (UAVs);uplink
+- Gold
+- NOMA
+- Channel estimation
+- Doppler shift
+- OFDM
+- Uplink
+- Autonomous aerial vehicles
+- Almost-cyclostationarity
+- channel estimation
+- circular and noncircular modulations
+- doubly selective channels
+- Doppler diversity
+- 5G new radio (NR)
+- modulation diversity
+- non-orthogonal multiple access (NOMA)
+- unmanned aerial vehicles (UAVs)
+- uplink
 ---
