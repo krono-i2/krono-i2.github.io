@@ -6,7 +6,9 @@ authors:
 - Francesco Verde
 - Ivan Iudice
 - Vincenzo Galdi
-date: 3-5 Dec. 2024-01
+date: 2025-03-12
+event_date: 2024-12-03
+event_end: 2024-12-05
 publishDate: '2025-07-21T11:47:11.467983Z'
 publication_types:
 - paper-conference
