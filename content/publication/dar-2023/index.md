@@ -6,7 +6,7 @@ authors:
 - Giacinto Gelli
 - Ivan Iudice
 - Francesco Verde
-date: 1 Jan.1, 2023-01-01
+date: 2022-11-23
 publishDate: '2025-07-21T11:47:11.388949Z'
 publication_types:
 - article-journal
