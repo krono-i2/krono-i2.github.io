@@ -13,10 +13,22 @@ publication_types:
 publication: '*IEEE Open Journal of the Communications Society*'
 doi: 10.1109/OJCOMS.2025.3526126
 tags:
-- Array signal processing;Metasurfaces;Downlink;Receivers;Radio transmitters;Optical
-  transmitters;Transmission line matrix methods;Resource management;Optimization;Artificial
-  neural networks;Active metasurfaces;downlink transmission;diffractive deep neural
-  networks (D�NN);optimal sum-rate maximum beamforming;phase and amplitude control;reconfigurable
-  intelligent surface (RIS);stacked intelligent metasurfaces (SIM);zero-forcing (ZF)
-  beamforming
+- Array signal processing
+- Metasurfaces
+- Downlink
+- Receivers
+- Radio transmitters
+- Optical transmitters
+- Transmission line matrix methods
+- Resource management
+- Optimization
+- Artificial neural networks
+- Active metasurfaces
+- downlink transmission
+- diffractive deep neural networks (D2NN)
+- optimal sum-rate maximum beamforming
+- phase and amplitude control
+- reconfigurable intelligent surface (RIS)
+- stacked intelligent metasurfaces (SIM)
+- zero-forcing (ZF) beamforming
 ---
